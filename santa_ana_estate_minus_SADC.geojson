@@ -106,25 +106,6 @@
           ]
         ]
       },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.0314894169569,
-              4.874228471219599
-            ],
-            [
-              -74.0314894169569,
-              4.874228471219599
-            ]
-          ]
-        ]
-      },
       "properties": {"name":"Santa Ana Estate minus Santa Ana de Chia"}
     }
   ]
